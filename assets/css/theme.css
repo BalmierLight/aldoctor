@@ -1,6 +1,50 @@
 /*!
  * Mundana Jekyll Theme (https://www.wowthemes.net/mundana-jekyll-theme/)
  */
+*{direction: rtl; text-align: right;}
+
+/* @import url('https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap'); */
+
+.jumbotron{
+	border-radius: 25px !important;
+}
+
+.navbar-brand{
+	font-family: 'Anton', sans-serif !important;
+}
+
+.spanborder{
+	text-align: center;
+}
+
+.ml-3{
+	margin-right: 10px;
+}
+
+.sticky-top{
+	border-radius: 25px !important;
+	box-shadow: 0 0 10px 3px #d3d3d3;
+	padding-bottom: 5px;
+}
+
+#MagicMenu{
+	box-shadow: 0 0 10px 3px #d3d3d3;
+}
+
+.text-muted{
+	text-align: center;
+
+}
+
+.border{
+	border-radius: 25px !important;
+	box-shadow: 0 0 10px 0.2px #d3d3d3;
+}
+
+.site-content{
+	margin-top: 65px !important;
+}
+
 
 body {
 	overflow-x:hidden;
@@ -682,13 +726,7 @@ article blockquote:before {
 	float:left;
 	line-height:1;
 }
-article:first-letter {
-	float:left;
-	font-size:5em;
-	line-height:1;
-	margin:0 .2em 0 0;
-	vertical-align:top;
-}
+
 article h1,article h2,article h3,article h4,article h5,article h6,article .h1,article .h2,article .h3,article .h4,article .h5,article .h6 {
 	margin-bottom:2rem;
 	margin-top:2rem;
