@@ -7,6 +7,11 @@
 
 .jumbotron{
 	border-radius: 25px !important;
+	
+}
+
+.jumbotron-home{
+	box-shadow: 0 0 10px 0.2px #d3d3d3;
 }
 
 .navbar-brand{
