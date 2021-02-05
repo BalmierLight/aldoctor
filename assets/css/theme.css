@@ -6,8 +6,9 @@
 /* @import url('https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap'); */
 
 .backpage:hover {
+	transition: 0.3s ease 0s;
 	color: #03A87C !important;
-  }
+}
 
 .jumbotron{
 	border-radius: 25px !important;
