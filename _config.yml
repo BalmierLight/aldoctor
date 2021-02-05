@@ -20,20 +20,20 @@ plugins:
   
 authors:
     anas:
-      name:           Anas
-      site:           https://
-      avatar:         assets/images/gentle.jpg
-      bio:            a fairy cool doctor
-      email:          anas.marzouk@gmail.com
-      twitter:        https://twitter.com/anasmarzouk
-
-    hamza:
-      name:           Hamza
+      name:           Anas Marzouk
       site:           https://
       avatar:         assets/images/av3.png
-      bio:            a cool dev
+      bio:            Otolaryngology Doctor 
+      email:          anas.marzouk@gmail.com
+      twitter:        https://twitter.com/
+
+    hamza:
+      name:           Hamza Marzouk
+      site:           https://
+      avatar:         assets/images/av3.png
+      bio:            Developer
       email:          dontemailme@bruh.com
-      twitter:        https://twitter.com/balmierlight
+      twitter:        https://twitter.com/
 
 # Defaults
 defaults:
