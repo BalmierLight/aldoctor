@@ -21,19 +21,19 @@ plugins:
 authors:
     anas:
       name:           Anas Marzouk
-      site:           https://
+      site:           https://aldoctor.net
       avatar:         assets/images/av3.png
       bio:            Otolaryngology Doctor 
       email:          anas.marzouk@gmail.com
-      twitter:        https://twitter.com/
+      twitter:        https://twitter.com/entanas
 
     hamza:
       name:           Hamza Marzouk
-      site:           https://
+      site:           لا يوجد موقع الكتروني
       avatar:         assets/images/av3.png
       bio:            Developer
       email:          dontemailme@bruh.com
-      twitter:        https://twitter.com/
+      twitter:        https://twitter.com/justbalmier
 
 # Defaults
 defaults:
