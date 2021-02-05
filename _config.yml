@@ -1,7 +1,7 @@
 # Site
 name: 'Aldoctor.net'
 description: 'Aldoctor.net'
-logo: 'assets/images/logo.png'
+logo: 'assets/images/logo.jpg'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/'
 disqus: 'https-balmierlight-github-io-aldoctor'
