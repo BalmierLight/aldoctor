@@ -13,10 +13,6 @@
 	font-family: 'Anton', sans-serif !important;
 }
 
-.d-block{
-	text-align: left !important;
-}
-
 .spanborder{
 	text-align: center;
 }
@@ -36,8 +32,8 @@
 }
 
 .text-muted{
-	text-align: right;
-
+	text-align: center;
+	background-color: green;
 }
 
 .border{
