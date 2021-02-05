@@ -1,6 +1,6 @@
 # Site
 name: 'Aldoctor.net'
-description: 'الرئيسية'
+description: 'Aldoctor.net'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/'
