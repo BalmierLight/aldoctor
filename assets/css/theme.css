@@ -5,11 +5,6 @@
 
 /* @import url('https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap'); */
 
-.catlist{
-	background-color: red !important;
-	text-align: right !important;
-}
-
 .mb-4::before{
 	padding-left: 10px;
 }
