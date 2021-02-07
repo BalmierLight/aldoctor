@@ -5,14 +5,7 @@
 
 /* @import url('https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap'); */
 
-/*
-.side-catg{
-	color: green !important;
-}
-*/
-
 .mb-4::before{
-	color: green !important;
 	padding-left: 10px;
 }
 
