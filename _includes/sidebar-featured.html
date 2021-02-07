@@ -10,7 +10,7 @@
                 <span class="side-catg d-block text-muted">
                     في <span class="catlist">
                     {% for category in post.categories %}
-                    <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+                    <a class="side-catg text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                     {% endfor %}
                     </span>
                 </span>
