@@ -11,6 +11,10 @@
 }
 */
 
+.mb-4::before{
+	color: green !important;	
+}
+
 .side-catg{
 	text-align: right !important;	
 }
