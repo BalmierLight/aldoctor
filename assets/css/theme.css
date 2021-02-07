@@ -12,7 +12,8 @@
 */
 
 .mb-4::before{
-	color: green !important;	
+	color: green !important;
+	padding-left: 10px;
 }
 
 .side-catg{
