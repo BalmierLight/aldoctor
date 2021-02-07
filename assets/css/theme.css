@@ -5,6 +5,10 @@
 
 /* @import url('https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap'); */
 
+.side-catg{
+	color: green !important;
+}
+
 .backpage{
 	transition: 0.15s ease 0s;
 }
