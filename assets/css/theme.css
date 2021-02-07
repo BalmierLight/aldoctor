@@ -7,6 +7,7 @@
 
 .catlist{
 	background-color: red !important;
+	text-align: right !important;
 }
 
 .mb-4::before{
