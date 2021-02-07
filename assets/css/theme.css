@@ -11,6 +11,10 @@
 }
 */
 
+.side-catg{
+	color: green !important;	
+}
+
 .backpage{
 	transition: 0.15s ease 0s;
 }
