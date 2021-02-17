@@ -13,6 +13,10 @@
 	text-align: right !important;	
 }
 
+.rounded{
+	border-radius: 25px !important;
+}
+
 p {
 
   /* These are technically the same, but use both */
