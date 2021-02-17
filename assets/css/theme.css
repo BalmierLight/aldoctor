@@ -13,6 +13,11 @@
 	text-align: right !important;	
 }
 
+
+.d-block {
+	text-align: right  
+}
+
 .rounded{
 	border-radius: 25px !important;
 }
