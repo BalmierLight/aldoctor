@@ -13,7 +13,7 @@
 	text-align: right !important;	
 }
 
-.dont-break-out {
+a {
 
   /* These are technically the same, but use both */
   overflow-wrap: break-word;
