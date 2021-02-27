@@ -6,7 +6,7 @@ favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: 'https-balmierlight-github-io-aldoctor'
 email: ''
-mailchimp-list: '"https://gmail.us1.list-manage.com/subscribe/post?u=a980a09dbbf88ba7f19159093&amp;id=f683e223f4'
+mailchimp-list: 'https://gmail.us1.list-manage.com/subscribe/post?u=a980a09dbbf88ba7f19159093&amp;id=f683e223f4'
 
 include: ["_pages"]
 permalink: /:title/
